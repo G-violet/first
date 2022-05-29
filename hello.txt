@@ -1,4 +1,4 @@
-hello git
+hello git 这是G-violet用户添加的内容。
 yy dd zz
 hello gitHub edit by 'hot_fix'
 hello git eidt by 'master'`
