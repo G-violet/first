@@ -2,3 +2,6 @@ hello git
 yy dd zz
 hello gitHub edit by 'hot_fix'
 hello git eidt by 'master'`
+克隆成功修改一下克隆中的文件内容
+哈哈哈
+
